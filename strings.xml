@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RTalk</string>
+    <string name="login">로그인</string>
+    <string name="regist">회원가입</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="your_phone_number">전화번호</string>
+    <string name="password">비밀번호</string>
+    <string name="fill_password">비밀번호입력</string>
+    <string name="confirm_password">비밀번호확인</string>
+    <string name="country">국가</string>
+    <string name="nickname">아이디</string>
+    <string name="China">중국</string>
+    <string name="plase_input_nickname">아이디입력</string>
+    <string name="already_agree">이둉약관에동의함</string>
+    <string name="sending_request">서버요청중..</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="atlast5">비밀번호  5자리이상 입력</string>
+    <string name="birthday">생년일</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="up">등록</string>
+    <string name="title_activity_mine_setting">MineSettingActivity</string>
+    <string name="title_activity_mine_settings">MineSettingsActivity</string>
+    <string name="send">전송</string>
+    <string name="chat">채팅</string>
+    <string name="find_by_name">I D로검색</string>
+    <string name="find_by_other">나이 성별로 검색</string>
+    <string name="back">뒤로</string>
+    <string name="id">ID</string>
+    <string name="age">나이</string>
+    <string name="to">까지</string>
+    <string name="sex">성별</string>
+    <string name="female">여</string>
+    <string name="male">남</string>
+    <string name="both">상관없음</string>
+    <string name="search">검색</string>
+    <string name="friendslist">친구목록</string>
+    <string name="recent_add">친구요청하시겠습니까?</string>
+    <string name="search_resout">검색결과</string>
+    <string name="want_to_add_friend">친구추가요청</string>
+    <string name="friends">친구</string>
+    <string name="circle_of_friends">포커스</string>
+    <string name="more">더보기</string>
+    <string name="join">가     입</string>
+    <string name="notification">알림</string>
+    <string name="friend_request">친구요청</string>
+    <string name="accent">수락</string>
+    <string name="decline">거절</string>
+    <string name="advertisement">광고</string>
+    <string name="sms">문자</string>
+    <string name="notice">공지사항</string>
+    <string name="expression">이모티콘</string>
+    <string name="research">리서치</string>
+    <string name="mall">쇼핑</string>
+    <string name="coupons">할인권</string>
+    <string name="game">게임</string>
+    <string name="coding">개발중입니다……</string>
+    <string name="title_activity_color_set">ColorSetActivity</string>
+    <string name="please_set_name_and_age_correctly">이름  비밀번호 정확히 입력하세요 </string>
+    <string name="password_should_more_than_5">비밀번호는 5자리 아상  입력</string>
+    <string name="confirmed_password_same">비밀번호 입력 다시 확인</string>
+    <string name="please_choose_gender">성별선택해주세요</string>
+    <string name="failed_to_connect_toServer">서버연결오류</string>
+    <string name="name_exist">사용중인 아이디 입니다</string>
+    <string name="register_success">가입성공</string>
+    <string name="sorry_cannot_register">죄송합니다 가입실패 다시 시도해주헤요</string>
+    <string name="invalid_username_or_password">아이디 또는 비밀번호 틀립니다</string>
+    <string name="settings">설정</string>
+    <string name="setcolor">배경색상설정</string>
+    <string name="my_picture">앨 범</string>
+    <string name="my_files">문 서</string>
+    <string name="mine">나</string>
+    <string name="my_collection">즐겨찾기</string>
+    <string name="go">바로가기</string>
+    <string name="yuyin_coding">무료 음성통화  화상통화  워키토키  개발중입니다....</string>
+    <string name="sms_title">Rtalk 메일함</string>
+    
+    <!-- RtalkSMS start -->
+    
+    <string name="elad_ad_top">광고</string>
+    <string name="toast_msg_request_error">연결오류！</string>
+    <string name="lv_ad_media_type_value">동영상광고</string>
+    <string name="lv_ad_media_type_value2">그림광고</string>
+    <string name="ad_list_fen">point</string>
+    <string name="toast_msg_canread">죄송합니다 이 광고은 이미 끝났습니다</string>
+    <string name="btn_txt_pause">정지</string>
+    <string name="btn_txt_play">시작</string>
+    <string name="pd_val_title2">제시</string>
+    <string name="pd_val_message2">동영상 다운로드 중  잠시만....</string>
+    <string name="toast_msg_video_error">동영상 다운로드 실패 ！</string>
+    <string name="ad_val_title">종료</string>
+    <string name="ad_val_message">종료 진행하시겠습니까</string>
+    <string name="ad_val_ok">확인</string>
+    <string name="ad_val_back">종료</string>
+    <string name="ad_val_cancle">취소</string>
+    <string name="pd_val_title">연결중....</string>
+    <string name="pd_val_message">잠시만 기다려 주세요</string>
+    <string name="tv_txt_title_answer">시장조사</string>
+    <string name="tabcontent_service_booking">예약기록:</string>
+    <string name="tabcontent_service_consult">상담기록:</string>
+    <string name="tabcontent_service_coupon_title">상\u0020\u0020 품\u0020\u0020명：</string>
+    <string name="tabcontent_service_booking_time">예약시간：</string>
+    <string name="tabcontent_service_consult_time">상담시간：</string>
+    <string name="servicetab_booking_textviewa">회사이름：</string>
+    <string name="servicetab_booking_textviewb">회사전화：</string>
+    <string name="servicetab_booking_textviewc">회사주소：</string>
+    <string name="servicetab_booking_textviewd">예약시간：</string>
+    <string name="servicetab_booking_textviewe">예약자이름：</string>
+    <string name="servicetab_booking_textviewf">예약자 전화：</string>
+    <string name="servicetab_booking_textviewg">예약내용：</string>
+    <string name="servicetab_booking_title">예약시간</string>
+    <string name="servicetab_consult_title">상담내용</string>
+    <string name="servicetab_consult_textviewa">회사이름 ：</string>
+    <string name="servicetab_consult_textviewb">회사전화：</string>
+    <string name="servicetab_consult_textviewc">회사전화 ：</string>
+    <string name="servicetab_consult_textviewd">상담시간：</string>
+    <string name="servicetab_consult_textviewe">상담자이름：</string>
+    <string name="servicetab_consult_textviewf">상담자전화：</string>
+    <string name="servicetab_consult_textviewg">상담내용：</string>
+    <string name="pointtab_note_message">이 광고은 이미 끝났습니다！</string>
+    <string name="buy_depiont">적립：</string>
+    <string name="buy_fen">point</string>
+    <string name="buy_gongpiont">총：</string>
+    <string name="qqs_btn_buy">상품구매</string>
+    <string name="qqs_btn_booking">예약신청</string>
+    <string name="qqs_btn_consult">상담신청</string>
+    <string name="qqs_btn_coupon">다운 쿠폰</string>
+    <string name="qqs_btn_replay">광고다시보기</string>
+    <string name="EConponDownload_image_error">다운로드 실패！</string>
+    <string name="ad_val_title2">제시</string>
+    <string name="ad_val_message3">서버연결이 잘못되였습니다 종료하시겠습니까？</string>
+    <string name="toast_msg_coupon">이 광고에는 쿠폰이 없거나  이미 쿠폰을 다운로드 받았습니다！</string>
+    <string name="buy_title">구매광고상품</string>
+    <string name="buy_submit">확인</string>
+    <string name="buy_textviewa">상\u0020\u0020품\u0020\u0020명：</string>
+    <string name="buy_textviewb">총 포인트：</string>
+    <string name="buy_textviewc">금\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020액：</string>
+    <string name="buy_textviewd">금\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020액：</string>
+    <string name="buy_textviewe">할인가：</string>
+    <string name="buy_textviewf">운\u0020\u0020송비：</string>
+    <string name="buy_textviewff">배송 무료</string>
+    <string name="buy_textviewg">구매수량：</string>
+    <string name="buy_textviewh">수취인 이름：</string>
+    <string name="buy_textviewi">수취인 연락처：</string>
+    <string name="buy_textviewj">수취인 주소：</string>
+    <string name="buy_textviewk">전달사항：</string>
+    <string name="img_error">그림 가져오기 실패</string>
+    <string name="buy_yuan">원</string>
+    <string name="buy_regular">일반배송:\u0020\u0020</string>
+    <string name="buy_fast">EMS:\u0020\u0020</string>
+    <string name="buy_ems">EMS:\u0020\u0020</string>
+    <string name="buy_submit_error">마일리지부족 충전후 다시구매해주세요！</string>
+    <string name="buy_freight">택배비용선택！</string>
+    <string name="buy_edittexta">구매수량입력해주세요！</string>
+    <string name="buy_edittextaaa">구매수량을 입력해주세요！</string>
+    <string name="buy_edittextb">수취인 이름！</string>
+    <string name="buy_edittextc">수취인 연락처 ！</string>
+    <string name="buy_edittextd">수취인 주소！</string>
+    <string name="booking_request_error">오류발생 !다시구매해주세요！</string>
+    <string name="booking_title">예약신청</string>
+    <string name="booking_textviewa">제\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020목：</string>
+    <string name="booking_textviewb">이\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020름：</string>
+    <string name="booking_textviewc">연락처：</string>
+    <string name="booking_textviewd">예약날자：</string>
+    <string name="booking_textviewe">예약시간：</string>
+    <string name="booking_textviewf">내\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020용：</string>
+    <string name="btn_txt_select">선\u0020\u0020\u0020\u0020택</string>
+    <string name="booking_textviewa_yz">제목필수！</string>
+    <string name="booking_textviewb_yz">이름필수！</string>
+    <string name="booking_textviewc_yz">연락처 필수！</string>
+    <string name="booking_textviewd_yz">날자입력！</string>
+    <string name="booking_textviewe_yz">시간입력！</string>
+    <string name="booking_textviewf_yz">내용입력！</string>
+    <string name="booking_request_right">예약신청 성공제출！</string>
+    <string name="booking_textviewc_yza">휴대폰번호오류！</string>
+    <string name="consult_title">상담신청</string>
+    <string name="consult_request_right">상담신청성공제출！</string>
+    <string name="coupon_title">다운로드 쿠폰</string>
+    <string name="coupon_textviewa">다운로드실패！</string>
+    <string name="coupon_textviewb">다시 다운받기！</string>
+    <string name="coupon_textviewaa">쿠폰다운성공！</string>
+    <string name="coupon_textviewbb">쿠폰리스트에서 찾을수 있습니다 !！</string>
+    <string name="tabcontent_service_zixun_textviewa">내용:</string>
+    <string name="tabcontent_service_zixun_textviewb">연락처:</string>
+    <string name="tabcontent_service_zixun_submit">제\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020시</string>
+    <string name="tabcontent_service_zixun_ok">상담내용을최대한 빨리 답변드리겠습니다 !</string>
+    <string name="tabcontent_service_zixun_error">상담실패！다시 입력해주세요!</string>
+    <string name="tv_txt_kanguanggao">소득 광고 포인트:</string>
+    <string name="tv_txt_canyudiaoyan">참여 리서치 포인트:</string>
+    <string name="tv_txt_adgoumai">사용 포인트:</string>
+    <string name="tv_txt_heji">현재 포인트:</string>
+    <string name="tabcontent_service_coupon_true">광고다운로드 쿠폰:</string>
+    <string name="tabcontent_service_coupon_num">상품NO：</string>
+    <string name="tabcontent_service_coupon_time">유효기간：</string>
+    <string name="pointtab_note_title">이름：</string>
+    <string name="pointtab_note_sum">수량：</string>
+    <string name="pointtab_note_type">종류：</string>
+    <string name="pointtab_note_goodstypea">광고상품</string>
+    <string name="pointtab_note_goodstypeb">상가상품</string>
+    <string name="pointtab_note_goodstypec">단체구매상품</string>
+    <string name="pointtab_note_time">시간：</string>
+    <string name="pointtab_note_textviewa">상품종류：</string>
+    <string name="pointtab_note_textviewb">상품명：</string>
+    <string name="pointtab_note_textviewc">제품가격：</string>
+    <string name="pointtab_note_textviewd">구매수량：</string>
+    <string name="pointtab_note_textviewe">총구매가격：</string>
+    <string name="pointtab_note_textviewf">구매시간：</string>
+    <string name="pointtab_note_textviewff">속성：</string>
+    <string name="pointtab_note_textviewg">수취인 이름：</string>
+    <string name="pointtab_note_textviewh">수취인 주소：</string>
+    <string name="pointtab_note_textviewi">수취인 연락처：</string>
+    <string name="pointtab_note_textviewj">반품：</string>
+    <string name="pointtab_note_textviewk">반품주소：</string>
+    <string name="pointtab_note_textviewl">배송가격：</string>
+    <string name="tabcontent_settab_textviewa">더 좋은 광고 정보수신을 위해서 개인정보을 완성해주세요</string>
+    <string name="tabcontent_settab_Button">정보수정</string>
+    <string name="tabcontent_settab_Button_tishi">정보 수정기간은 15일입니다！</string>
+    <string name="settab_update_name">이 름:</string>
+    <string name="tv_txt_hp">전화번호:</string>
+    <string name="tv_txt_email">메일주소:</string>
+    <string name="settab_update_pass_old">비밀번호:</string>
+    <string name="settab_update_pass_newa">새 비밀번호:</string>
+    <string name="settab_update_pass_newb">비밀번호확인:</string>
+    <string name="tv_txt_birthday">나\u0020\u0020\u0020\u0020이:</string>
+    <string name="tv_txt_home">주\u0020\u0020\u0020\u0020소:</string>
+    <string name="settab_update_okaaa">수정완료！</string>
+    <string name="settab_update_erroraaa">수정오류，확인후다시수정해주세요！</string>
+    <string name="toast_msg_name">사용자 이름은 비워둘수 없습니다 ！</string>
+    <string name="toast_msg_pass">비밀번호필수입력！</string>
+    <string name="settab_update_pass">옛 암호가 잘못되였습니다 ！</string>
+    <string name="settab_update_passnew">비밀번호오류！</string>
+    <string name="btn_txt_commit">확인</string>
+    <string name="ad_val_message4">문제에 참여하지 않았습니다  종료하시겠습니까？</string>
+    <string name="toast_msg_commit_failure">서버연결오류！</string>
+    <string name="toast_msg_cannot_null">개%d 문제에 대답하지 않았습니다！</string>
+    <string name="toast_msg_cannot_wrong">문제%d 오류，다시입력해주세요！</string>
+    <string name="toast_msg_cannot_least" formatted="false">문제 %d 최소 %d 글자 이상을 입력해주세요</string>
+    <string name="toast_msg_question_without">이 광고는 리서치 하지 않았습니다！</string>
+    <string name="qqs_return">후퇴</string>
+    <string name="qqs_title">적립 포인트</string>
+    <string name="qqs_textviewa">총 리서치 포인트：</string>
+    <string name="qqs_textviewb">정답 문제수：</string>
+    <string name="qqs_textviewc">적립 포인트：</string>
+    <string name="qqs_textviewd">총 포인트：</string>
+    <string name="toast_msg_commit_success">축하합니다！누계포인트 %d Point！</string>
+    <string name="toast_msg_buy">미안합니다！이광고는 상품을 판매하지 않습니다！</string>
+    <string name="toast_msg_booking">미안합니다！이 광고은 에약하지 않았습니다！</string>
+    <string name="toast_msg_consult">미안합니다！이 광고는 상담하지 않았습니다！</string>
+    <string name="main_person">개인정보</string>
+    <string name="main_persona">\u0020\u0020내 정보</string>
+    <string name="main_re">My Pages</string>
+    <string name="main_qa">광고 상담</string>
+    <string name="main_point">포인트 적립</string>
+    <string name="main_pointa">포인트\u0020\u0020\u0020\u0020사용내역</string>
+    <string name="main_coupon">쿠폰 기록</string>
+    <string name="main_buy">상품 구매기록</string>
+    <string name="main_read">이미 본 광고</string>
+    <string name="main_rereserch">이미 한 리서치</string>
+    <string name="main_q">상담내용</string>
+    <string name="main_a">광고문의</string>
+    <string name="tv_txt_diaoyan">리서치</string>
+    <string name="elad_read_top">내가 본 광고</string>
+    <string name="elad_rere_top">내가 참여한 리서치</string>
+    <string name="buy_queren">확인</string>
+    <string name="tv_txt_canyudiaoyan_quwenti">설문조사</string>
+    <string name="ad_type_1">패션/명품</string>
+	<string name="ad_type_2">통신</string>
+	<string name="ad_type_3">부동산</string>
+	<string name="ad_type_4">자동차</string>
+	<string name="ad_type_5">영화/연극</string>
+	<string name="ad_type_6">음식</string>
+	<string name="ad_type_7">결혼/웨딩</string>
+	<string name="ad_type_8">가전</string>
+	<string name="ad_type_9">여행/관광</string>
+	<string name="ad_type_10">미용/뷰티</string>
+	<string name="ad_type_11">생활용품</string>
+	<string name="ad_type_12">병원/의료</string>
+    
+    <!-- RtalkAD end -->
+    
+    
+    
+    
+    
+    <!-- This is after -->
+
+    <string name="source_content_text_hint">请输入要翻译的文字</string>
+    <string name="translate">翻译</string>
+    <string name="translate_result">翻译结果</string>
+    <string name="translate_debug_info">调试信息</string>
+    <string name="offline_package">离线包</string>
+    <string name="download">下载</string>
+    <string name="downloaded">已下载</string>
+    <string name="undownload">未下载</string>
+    <string name="has_update">有更新</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+
+    <string-array name="language">
+        <item>自动检测</item>
+        <item>中文</item>
+        <item>英语</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>西班牙语</item>
+        <item>法语</item>
+        <item>泰语</item>
+        <item>阿拉伯语</item>
+        <item>俄语</item>
+        <item>葡萄牙语</item>
+        <item>粤语</item>
+        <item>文言文</item>
+    </string-array>
+    <string-array name="language_short">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>jp</item>
+        <item>kor</item>
+        <item>spa</item>
+        <item>fra</item>
+        <item>th</item>
+        <item>ara</item>
+        <item>ru</item>
+        <item>pt</item>
+        <item>yue</item>
+        <item>wyw</item>
+    </string-array>
+
+    <!-- This is after -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="press_again_exit">한번 더 클릭하세요</string>
+
+</resources>
